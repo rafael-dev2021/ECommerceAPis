@@ -1,0 +1,17 @@
+D:\ECommerce\ECommerce.InfraData\bin\Debug\net7.0\ECommerce.InfraData.deps.json
+D:\ECommerce\ECommerce.InfraData\bin\Debug\net7.0\ECommerce.InfraData.runtimeconfig.json
+D:\ECommerce\ECommerce.InfraData\bin\Debug\net7.0\ECommerce.InfraData.dll
+D:\ECommerce\ECommerce.InfraData\bin\Debug\net7.0\ECommerce.InfraData.pdb
+D:\ECommerce\ECommerce.InfraData\bin\Debug\net7.0\ECommerce.Domain.dll
+D:\ECommerce\ECommerce.InfraData\bin\Debug\net7.0\ECommerce.Domain.pdb
+D:\ECommerce\ECommerce.InfraData\obj\Debug\net7.0\ECommerce.InfraData.csproj.AssemblyReference.cache
+D:\ECommerce\ECommerce.InfraData\obj\Debug\net7.0\ECommerce.InfraData.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerce\ECommerce.InfraData\obj\Debug\net7.0\ECommerce.InfraData.AssemblyInfoInputs.cache
+D:\ECommerce\ECommerce.InfraData\obj\Debug\net7.0\ECommerce.InfraData.AssemblyInfo.cs
+D:\ECommerce\ECommerce.InfraData\obj\Debug\net7.0\ECommerce.InfraData.csproj.CoreCompileInputs.cache
+D:\ECommerce\ECommerce.InfraData\obj\Debug\net7.0\ECommerce.InfraData.csproj.CopyComplete
+D:\ECommerce\ECommerce.InfraData\obj\Debug\net7.0\ECommerce.InfraData.dll
+D:\ECommerce\ECommerce.InfraData\obj\Debug\net7.0\refint\ECommerce.InfraData.dll
+D:\ECommerce\ECommerce.InfraData\obj\Debug\net7.0\ECommerce.InfraData.pdb
+D:\ECommerce\ECommerce.InfraData\obj\Debug\net7.0\ECommerce.InfraData.genruntimeconfig.cache
+D:\ECommerce\ECommerce.InfraData\obj\Debug\net7.0\ref\ECommerce.InfraData.dll

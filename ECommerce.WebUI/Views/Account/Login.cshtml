@@ -1,0 +1,35 @@
+﻿@model LoginViewModel
+
+<div class="container">
+    <form asp-controller="Account" asp-action="Login" method="post" class="mx-auto mt-5" style="max-width:400px;">
+        <h2>Access with your login or register!</h2>
+        <h5>Login Bellow</h5>
+        <br />
+        <div class="form-group">
+            <input asp-for="Email" placeholder="Type your e-mail" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <br />
+        <div class="form-group">
+            <input asp-for="Password" placeholder="Type your password" class="form-control" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+        <br />
+        <div>
+            <button type="submit" style="width:400px; height:40px" class="btn btn-dark">Log in</button>
+            &nbsp;
+            <a class="btn btn-outline-secondary" style="width:400px; height:40px" asp-controller="Account" asp-action="Register">Register</a>
+        </div>
+        <br />
+        <p>
+            Ao fazer login em sua conta, você concorda com nossa
+            <a asp-controller="Home" asp-action="Privacy">
+                Política de Privacidade e Cookies
+            </a>
+            e
+            <a asp-controller="Politica" asp-action="Termo">
+                Termos e condições.
+            </a>
+        </p>
+    </form>
+</div>

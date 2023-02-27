@@ -1,0 +1,15 @@
+D:\ECommerce\ECommerce.Application\bin\Debug\net7.0\ECommerce.Application.deps.json
+D:\ECommerce\ECommerce.Application\bin\Debug\net7.0\ECommerce.Application.dll
+D:\ECommerce\ECommerce.Application\bin\Debug\net7.0\ECommerce.Application.pdb
+D:\ECommerce\ECommerce.Application\obj\Debug\net7.0\ECommerce.Application.csproj.AssemblyReference.cache
+D:\ECommerce\ECommerce.Application\obj\Debug\net7.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerce\ECommerce.Application\obj\Debug\net7.0\ECommerce.Application.AssemblyInfoInputs.cache
+D:\ECommerce\ECommerce.Application\obj\Debug\net7.0\ECommerce.Application.AssemblyInfo.cs
+D:\ECommerce\ECommerce.Application\obj\Debug\net7.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+D:\ECommerce\ECommerce.Application\obj\Debug\net7.0\ECommerce.Application.dll
+D:\ECommerce\ECommerce.Application\obj\Debug\net7.0\refint\ECommerce.Application.dll
+D:\ECommerce\ECommerce.Application\obj\Debug\net7.0\ECommerce.Application.pdb
+D:\ECommerce\ECommerce.Application\obj\Debug\net7.0\ref\ECommerce.Application.dll
+D:\ECommerce\ECommerce.Application\bin\Debug\net7.0\ECommerce.Domain.dll
+D:\ECommerce\ECommerce.Application\bin\Debug\net7.0\ECommerce.Domain.pdb
+D:\ECommerce\ECommerce.Application\obj\Debug\net7.0\ECommerce.Application.csproj.CopyComplete

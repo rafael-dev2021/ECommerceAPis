@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BsdI5wzkgh12xNpSuBpwAxX1hfrXJz5aPNylAYdxJHGFh+mDSiasDf3VCzC3o+JURaEN+V2Rsd6Sh6FZT5mxWA==",
+  "success": true,
+  "projectFilePath": "D:\\ECommerce\\ECommerce.Application\\ECommerce.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ainbo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ainbo\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\ainbo\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ainbo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
