@@ -2,6 +2,8 @@
 
 <div class="container">
     <form asp-controller="Account" asp-action="Login" method="post" class="mx-auto mt-5" style="max-width:400px;">
+        <div asp-validation-summary="All" class="text-danger"></div>
+
         <h2>Access with your login or register!</h2>
         <h5>Login Bellow</h5>
         <br />
@@ -33,3 +35,9 @@
         </p>
     </form>
 </div>
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+            }

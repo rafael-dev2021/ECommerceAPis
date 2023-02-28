@@ -1,0 +1,10 @@
+﻿@model ProductsViewModels
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model.ProductDtos)
+        {
+                <partial name="_PartialViews" for="@item" />
+        }
+    </div>
+</div>
