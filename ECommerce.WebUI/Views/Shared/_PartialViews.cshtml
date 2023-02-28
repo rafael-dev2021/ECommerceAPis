@@ -1,5 +1,14 @@
 ﻿@model ECommerce.Application.DTOs.ProductDto
 
-<div>
+<div class="col-sm-4 col-md-4 col-lg-4">
+    <div class="card" style="width:18rem;">
+        <div>
+            <img src="@Model.Image" width="286"/>
+        </div>
+        <div class="card-body">
+            <h4>@Model.ProductName</h4>
+            <p>@Model.Description</p>
+        </div>
+    </div>
 
 </div>

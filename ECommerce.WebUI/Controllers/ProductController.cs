@@ -38,5 +38,31 @@ namespace ECommerce.WebUI.Controllers
             };
             return View(productsVw);
         }
+
+        public async Task<IActionResult> Search(string searchStr)
+        {
+            IEnumerable<ProductDto> productDtos;
+            string currentyCategory = string.Empty;
+            var getList = await _productService.GetProductDtos();
+
+            if (string.IsNullOrEmpty(searchStr))
+            {
+                productDtos = getList.OrderBy(x => x.ProductName);
+                currentyCategory = "All Products";
+            }
+            else
+            {
+                productDtos = getList.Where(x => x.ProductName.ToLower().Contains(searchStr.ToLower()));
+                if (productDtos.Any())
+                    currentyCategory = "Products";
+                else
+                    currentyCategory = "Products not found";
+            }
+            return View("~/Views/Product/Index.cshtml", new ProductsViewModels()
+            {
+                ProductDtos = productDtos,
+                CurrentCategory = currentyCategory
+            });
+        }
     }
 }

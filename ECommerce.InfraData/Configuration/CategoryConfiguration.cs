@@ -12,7 +12,7 @@ namespace ECommerce.InfraData.Configuration
             builder.Property(x => x.CategoryName).HasMaxLength(100).IsRequired();
 
             builder.HasData(
-                new Category(1, "Vestido"),
+                new Category(1, "Dress"),
                 new Category(2, "Blouse"),
                 new Category(3, "Shirt"),
                 new Category(4, "T-Shirt"),
